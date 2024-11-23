@@ -1,4 +1,4 @@
-import { useOxyAuth } from "@oxyhq/auth";
+import { useOxyAuth } from "@oxyhq/services";
 
 function MyComponent() {
   const { session, status, signIn, signOut } = useOxyAuth();
