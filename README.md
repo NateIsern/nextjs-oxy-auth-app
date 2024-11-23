@@ -1,2 +1,1 @@
-# nextjs-oxy-auth-app
-A basic Next.js server app with @oxyhq/auth
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
