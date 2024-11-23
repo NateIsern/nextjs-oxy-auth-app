@@ -1,4 +1,4 @@
-import { useOxyAuth } from "@oxyhq/auth";
+import { useOxyAuth } from "@oxyhq/services";
 
 function MyApp({ Component, pageProps }) {
   return <Component {...pageProps} />;
