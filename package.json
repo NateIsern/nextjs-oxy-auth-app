@@ -8,7 +8,8 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "latest",
+    "@oxyhq/services": "^0.0.69",
+    "next": "^15.0.3",
     "react": "latest",
     "react-dom": "latest"
   }
